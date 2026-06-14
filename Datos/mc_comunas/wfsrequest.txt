@@ -1,0 +1,1 @@
+http://ws-idesc.cali.gov.co:80/geoserver/idesc/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idesc:mc_comunas&maxFeatures=30&outputFormat=SHAPE-ZIP
